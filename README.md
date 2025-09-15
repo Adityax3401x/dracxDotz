@@ -250,6 +250,7 @@ Tips:
 - [Rofi](https://github.com/davatorium/rofi)
 - [Eww](https://elkowar.github.io/eww/)
 - [Waybar Project](https://github.com/Alexays/Waybar)
+> Thanks to end4 and soromane for the spectral-horizon theme inspiration.
 
 ---
 
@@ -272,14 +273,4 @@ Licensed under **GNU GPLv3** — free to use, modify, and redistribute.
 **A:** Yes, fork, edit, and submit a pull request.
 
 ---
-
-## Additional Screenshots
-
-| Minimal Widgets | Dark Launcher |
-|----------------|---------------|
-| ![Minimal](.previews/extra/minimal.png) | ![Dark](.previews/extra/dark-launcher.png) |
-
-| Full Layout | Workspace Icons |
-|------------|----------------|
-| ![Full](.previews/extra/full-layout.png) | ![Icons](.previews/extra/workspace-icons.png) |
 
