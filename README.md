@@ -1,15 +1,15 @@
 <div align="center">
 
 
-# 【 HyprZepyx Project 】
+# 【 dracx Dotz 】
 
 
 A powerful, visually stunning Hyprland configuration built for **speed, workflow efficiency, and aesthetics**.
 
 
-![Last Commit](https://img.shields.io/github/last-commit/xZepyx/HyprZepyx?style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
-![Stars](https://img.shields.io/github/stars/xZepyx/HyprZepyx?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
-![Repo Size](https://img.shields.io/github/repo-size/xZepyx/HyprZepyx?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
+![Last Commit](https://img.shields.io/github/last-commit/Adityax3401x/dracxDotz?style=for-the-badge&color=8ad7eb&logo=git&logoColor=D9E0EE&labelColor=1E202B)
+![Stars](https://img.shields.io/github/stars/Adityax3401x/dracxDotz?style=for-the-badge&logo=andela&color=86dbd7&logoColor=D9E0EE&labelColor=1E202B)
+![Repo Size](https://img.shields.io/github/repo-size/Adityax3401x/dracxDotz?color=86dbce&label=SIZE&logo=protondrive&style=for-the-badge&logoColor=D9E0EE&labelColor=1E202B)
 
 
 </div>
@@ -161,7 +161,7 @@ Each app is **optimized for performance and minimal resource usage**.
 
 1. Clone repository
 ```
-git clone https://github.com/xZepyx/HyprZepyx.git ~/.config/hyprzepyx
+git clone https://github.com/Adityax3401x/dracxDotz.git ~/.config/hyprzepyx
 cd ~/.config/hyprzepyx
 ```
 2. Install dependencies
