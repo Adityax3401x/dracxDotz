@@ -125,7 +125,7 @@ Tips:
 
 ## License
 
-© 2025–2040 Aditya Yadav (zepyxunderscore@gmail.com)
+© 2025–2040 xZepyx (zepyxunderscore@gmail.com)
 Licensed under **GNU GPLv3** — free to use, modify, and redistribute.
 Not me!!
 ---
