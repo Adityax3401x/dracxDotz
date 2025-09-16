@@ -17,7 +17,7 @@ A powerful, visually stunning Hyprland configuration built for **speed, workflow
 
 ## Project Overview
 
-**HyprZepyx** is more than a configuration — in my opinion for me. Designed for **developers, and Linux enthusiasts**, it merges **aesthetic appeal** with **practical functionality**.
+**dracxDotz** is more than a configuration — in my opinion for me. Designed for **developers, and Linux enthusiasts**, it merges **aesthetic appeal** with **practical functionality**.
 
 ### Features at a Glance
 
@@ -161,8 +161,8 @@ Each app is **optimized for performance and minimal resource usage**.
 
 1. Clone repository
 ```
-git clone https://github.com/Adityax3401x/dracxDotz.git ~/.config/hyprzepyx
-cd ~/.config/hyprzepyx
+git clone https://github.com/Adityax3401x/dracxDotz.git ~/.config/dracxDotz
+cd ~/.config/dracxDotz
 ```
 2. Install dependencies
 ```
@@ -181,9 +181,9 @@ hyprland
 
 ## Customization & Tips
 
-- Wallpapers: `~/.config/hyprzepyx/wallpapers/`
-- Waybar colors: `~/.config/hyprzepyx/waybar/colors.css`
-- Eww widgets: `~/.config/hyprzepyx/eww/`
+- Wallpapers: `~/.config/dracxDotz/wallpapers/`
+- Waybar colors: `~/.config/dracxDotz/waybar/colors.css`
+- Eww widgets: `~/.config/dracxDotz/eww/`
 - Keybindings: `~/.config/hyprland/hyprland.conf`
 
 Tips:
@@ -266,7 +266,7 @@ Licensed under **GNU GPLv3** — free to use, modify, and redistribute.
 **Q:** Can I use this on Sway?
 **A:** Hyprland-specific, but some widgets may be adapted.
 
-**Q:** How to update HyprZepyx?
+**Q:** How to update dracxDotz?
 **A:** Pull latest repo and reapply configs.
 
 **Q:** Can I contribute?
